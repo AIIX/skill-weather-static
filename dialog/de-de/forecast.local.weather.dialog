@@ -1,0 +1,3 @@
+{{day}} wird es {{condition}}, mit maximal {{temp_max}} und minimal {{temp_min}}
+{{day}} werden wir maximal {{temp_max}} und minimal {{temp_min}} Grad haben, bei {{condition}} Bedingungen
+Die Vorhersage für {{day}} ist {{temp_max}} als höchster und {{temp_min}} als niedrigster Wert
